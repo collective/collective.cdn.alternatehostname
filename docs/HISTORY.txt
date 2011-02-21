@@ -1,0 +1,9 @@
+Changelog
+=========
+
+0.5 - Unreleased
+----------------
+
+* Implementation of an alternate hostname provider [erico_andrei]
+
+* Initial release [erico_andrei]
